@@ -1,3 +1,2 @@
 # Practice-Programs
-Tic-tac-toe is a pencil-and-paper game for two players, X and O, who take turns marking the spaces in a 3×3 grid. 
-The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the game. 
+All java programs which i have practiced. Questions are through websites like techgig, hackerrank, hackerearth etc.
